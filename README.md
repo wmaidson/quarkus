@@ -1,4 +1,4 @@
-# bitcoin Project
+# Bitcoin Project
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
@@ -62,10 +62,17 @@ Easily start your RESTful Web Services
 
 ## This application was made using GraalVM
 
-[GraalVM](https://www.graalvm.org/)
+[GraalVM](https://www.graalvm.org/) Available for Java, JavaScript, Python, Ruby, R, LLVM, Scala on Linux, Linux AArch64, MacOS and Windows platform
+
+## Building native image
+
+- Compiling the application to a native executable
+- Packaging the native executable in a container
+- Debugging native executable
+
+Guide [building-native-image](https://quarkus.io/guides/building-native-image)
 
 
 ## Solving possible problems
 
 Error using quarkus with graalvm [stackoverflow](https://stackoverflow.com/questions/59041038/build-run-your-application-using-graalvm-jdk)
-
