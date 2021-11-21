@@ -70,6 +70,10 @@ Easily start your RESTful Web Services
 - Packaging the native executable in a container
 - Debugging native executable
 
+```
+.\bitcoin-1.0.0-SNAPSHOT-runner.exe
+```
+
 Guide [building-native-image](https://quarkus.io/guides/building-native-image)
 
 
